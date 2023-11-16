@@ -1,6 +1,6 @@
 # Issue Tracker for Easylink-Mobile-IOS
 
-This repository is used to track issues for our main project located at [Main Project]. 
+This repository is used to track issues for our main project. 
 
 ## Purpose
 
